@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "asposecellscloud": "^23.7.0",
+    "convert-excel-to-json": "^1.7.0",
+    "prettier": "^3.0.1"
+  }
+}
